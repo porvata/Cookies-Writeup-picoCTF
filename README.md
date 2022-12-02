@@ -6,7 +6,7 @@ Who doesn't love cookies? Try to figure out the best one. http://mercury.picoctf
 
 **SOLUTION:**
 
-1. Go to the website
+1. Go to the website you're given in the Description
 
 2. If you play around with the site you'll notice that if you enter certain cookie names, you'll be taken to a page that says "I love <cookie name entered>"
 
